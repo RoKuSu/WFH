@@ -1,0 +1,697 @@
+Sub-product,Issue,Sub-issue,Consumer complaint narrative
+Other banking product or service,Problem with fraud alerts or security freezes,None,1
+Payday loan,Unable to get your credit report or credit score,Other problem getting your report or credit score,1
+Payday loan,"Was approved for a loan, but didn't receive the money",None,1
+Payday loan debt,Attempts to collect debt not owed,Debt is not yours,1
+Payday loan debt,Attempts to collect debt not owed,Debt was paid,1
+Payday loan debt,Attempts to collect debt not owed,Debt was result of identity theft,1
+Payday loan debt,Communication tactics,"You told them to stop contacting you, but they keep trying",1
+Payday loan debt,Threatened to contact someone or share information improperly,Talked to a third-party about your debt,1
+Home equity loan or line of credit (HELOC),Unable to get your credit report or credit score,None,1
+Payday loan debt,Took or threatened to take negative or legal action,Threatened to sue you for very old debt,1
+Payday loan debt,Written notification about debt,Didn't receive enough information to verify debt,1
+Checking account,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,1
+Checking account,Problem with a credit reporting company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,1
+Payroll card,Problem getting a card or closing an account,Don't want a card provided by your employer or the government,1
+Payroll card,Problem getting a card or closing an account,"Trouble getting, activating, or registering a card",1
+Home equity loan or line of credit (HELOC),Improper use of your report,None,1
+Payroll card,Trouble using the card,Problem with a check written from your prepaid card account,1
+Personal line of credit,Credit monitoring or identity theft protection services,Billing dispute for services,1
+Personal line of credit,Credit monitoring or identity theft protection services,Received unwanted marketing or advertising,1
+Medical debt,Took or threatened to take negative or legal action,Threatened to arrest you or take you to jail if you do not pay,1
+Federal student loan debt,Attempts to collect debt not owed,Debt is not yours,1
+Federal student loan debt,Attempts to collect debt not owed,Debt was paid,1
+Personal line of credit,Incorrect information on your report,Personal information incorrect,1
+Personal line of credit,Incorrect information on your report,Public record information inaccurate,1
+I do not know,False statements or representation,Told you not to respond to a lawsuit they filed against you,1
+Other type of mortgage,Problem with a credit reporting company's investigation into an existing problem,None,1
+I do not know,Took or threatened to take negative or legal action,Sued you in a state where you do not live or did not sign for the debt,1
+Installment loan,Improper use of your report,Reporting company used your report improperly,1
+Medical debt,Written notification about debt,Didn't receive enough information to verify debt,1
+Medical debt,Attempts to collect debt not owed,Debt is not yours,1
+Money order,Confusing or missing disclosures,None,1
+Money order,Unexpected or other fees,None,1
+Loan,Problem with a credit reporting company's investigation into an existing problem,Investigation took more than 30 days,1
+Mortgage debt,False statements or representation,Indicated you were committing crime by not paying debt,1
+Loan,Incorrect information on your report,Public record information inaccurate,1
+Loan,Improper use of your report,Received unsolicited financial product or insurance offers after opting out,1
+Mortgage debt,Took or threatened to take negative or legal action,Sued you in a state where you do not live or did not sign for the debt,1
+Lease,Managing the loan or lease,Problem with the interest rate,1
+Lease,Incorrect information on your report,Personal information incorrect,1
+Personal line of credit,Problem with a credit reporting company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,1
+Lease,Getting a loan or lease,Problem with signing the paperwork,1
+Other banking product or service,Credit monitoring or identity theft protection services,Billing dispute for services,1
+Other banking product or service,Improper use of your report,Credit inquiries on your report that you don't recognize,1
+Other banking product or service,Improper use of your report,Received unsolicited financial product or insurance offers after opting out,1
+Other banking product or service,Improper use of your report,Reporting company used your report improperly,1
+Other banking product or service,Incorrect information on your report,Account information incorrect,1
+Lease,Getting a loan or lease,Problem with additional add-on products or services purchased with the loan,1
+Other banking product or service,Incorrect information on your report,Information is missing that should be on the report,1
+Lease,Getting a loan or lease,Confusing or misleading advertising,1
+Other banking product or service,Unable to get your credit report or credit score,Other problem getting your report or credit score,1
+Other debt,Communication tactics,Called before 8am or after 9pm,1
+Other debt,Took or threatened to take negative or legal action,Sued you in a state where you do not live or did not sign for the debt,1
+Mortgage debt,Written notification about debt,Notification didn't disclose it was an attempt to collect a debt,1
+Personal line of credit,Problem with a credit reporting company's investigation into an existing problem,Problem with personal statement of dispute,1
+FHA mortgage,Unable to get your credit report or credit score,None,1
+Personal line of credit,Problem with fraud alerts or security freezes,None,1
+Personal line of credit,Problem with a credit reporting company's investigation into an existing problem,Was not notified of investigation status or results,1
+Store credit card,Credit monitoring or identity theft protection services,Didn't receive services that were advertised,1
+Federal student loan servicing,Incorrect information on your report,Old information reappears or never goes away,1
+Store credit card,Improper use of your report,Report provided to employer without your written authorization,1
+Government benefit card,Trouble using the card,Problem adding money,1
+Store credit card,Incorrect information on your report,Public record information inaccurate,1
+Government benefit card,Problem with a purchase or transfer,Overcharged for a purchase or transfer you did make with the card,1
+Store credit card,"Other features, terms, or problems",Problem with cash advances,1
+Store credit card,"Other features, terms, or problems",Problem with convenience check,1
+Store credit card,Problem with a credit reporting company's investigation into an existing problem,Investigation took more than 30 days,1
+Store credit card,Struggling to pay your bill,Problem lowering your monthly payments,1
+Savings account,Incorrect information on your report,Old information reappears or never goes away,1
+Gift card,Trouble using the card,Trouble using the card to pay a bill,1
+Gift card,Problem with a purchase or transfer,Overcharged for a purchase or transfer you did make with the card,1
+Auto debt,False statements or representation,Told you not to respond to a lawsuit they filed against you,1
+Gift card,Problem getting a card or closing an account,Trouble closing card,1
+Gift card,Advertising,Confusing or misleading advertising about the card,1
+Title loan,Incorrect information on your report,Account status incorrect,1
+General-purpose prepaid card,Trouble using the card,Trouble using the card to send money to another person,1
+Title loan,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,1
+Title loan,"Was approved for a loan, but didn't receive money",None,1
+General-purpose prepaid card,Problem with overdraft,"Was signed up for overdraft on card, but don't want to be",1
+General-purpose credit card or charge card,Unable to get your credit report or credit score,Problem getting your free annual credit report,1
+General-purpose credit card or charge card,Credit monitoring or identity theft protection services,Received unwanted marketing or advertising,1
+Store credit card,Trouble using your card,Account sold or transferred to another company,1
+Savings account,Improper use of your report,Credit inquiries on your report that you don't recognize,1
+Federal student loan servicing,Incorrect information on your report,Information belongs to someone else,1
+Private student loan debt,Took or threatened to take negative or legal action,Seized or attempted to seize your property,1
+Checking account,Incorrect information on your report,Old information reappears or never goes away,1
+Federal student loan debt,Attempts to collect debt not owed,Debt was result of identity theft,1
+Private student loan,Getting a loan,Problem with signing the paperwork,1
+Federal student loan debt,False statements or representation,Attempted to collect wrong amount,1
+Checking account,Improper use of your report,Received unsolicited financial product or insurance offers after opting out,1
+Checking account,Credit monitoring or identity theft protection services,Problem with product or service terms changing,1
+Checking account,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,1
+Federal student loan debt,Took or threatened to take negative or legal action,Collected or attempted to collect exempt funds,1
+Private student loan debt,Attempts to collect debt not owed,Debt is not yours,1
+Private student loan debt,Attempts to collect debt not owed,Debt was result of identity theft,1
+Private student loan debt,Communication tactics,"You told them to stop contacting you, but they keep trying",1
+Federal student loan debt,Took or threatened to take negative or legal action,Threatened or suggested your credit would be damaged,1
+Federal student loan debt,Written notification about debt,Didn't receive enough information to verify debt,1
+Medical debt,Took or threatened to take negative or legal action,Collected or attempted to collect exempt funds,1
+Reverse mortgage,Closing on a mortgage,None,1
+Government benefit card,Trouble using the card,Problem with direct deposit,1
+Check cashing service,Confusing or misleading advertising or marketing,None,1
+Federal student loan servicing,Dealing with your lender or servicer,Problem with customer service,1
+Reverse mortgage,Applying for a mortgage or refinancing an existing mortgage,None,1
+Refund anticipation check,Confusing or missing disclosures,None,1
+Lease,Getting a loan or lease,Credit denial,2
+Government benefit card,Trouble using the card,Problem using the card to withdraw money from an ATM,2
+General-purpose credit card or charge card,Credit monitoring or identity theft protection services,Didn't receive services that were advertised,2
+I do not know,Threatened to contact someone or share information improperly,Contacted you instead of your attorney,2
+Loan,Problem with fraud alerts or security freezes,None,2
+Federal student loan debt,Communication tactics,Frequent or repeated calls,2
+Government benefit card,Trouble using the card,Trouble getting information about the card,2
+Government benefit card,Trouble using the card,Trouble using the card to spend money in a store or online,2
+Debt settlement,Unexpected or other fees,None,2
+Debt settlement,Confusing or missing disclosures,None,2
+Debt settlement,Confusing or misleading advertising or marketing,None,2
+FHA mortgage,Improper use of your report,None,2
+Federal student loan servicing,Dealing with your lender or servicer,Trouble with how payments are being handled,2
+Home equity loan or line of credit (HELOC),Problem with fraud alerts or security freezes,None,2
+Government benefit card,Problem with overdraft,Overdraft charges,2
+Lease,Getting a loan or lease,Fraudulent loan,2
+I do not know,False statements or representation,Indicated you were committing crime by not paying debt,2
+Lease,Problems at the end of the loan or lease,Problem related to refinancing,2
+Mortgage debt,Communication tactics,Called before 8am or after 9pm,2
+Checking account,Problem with a credit reporting company's investigation into an existing problem,Problem with personal statement of dispute,2
+Payroll card,Problem with a purchase or transfer,Charged for a purchase or transfer you did not make with the card,2
+Mobile or digital wallet,Unexpected or other fees,None,2
+Personal line of credit,Improper use of your report,Reporting company used your report improperly,2
+Personal line of credit,Incorrect information on your report,Account information incorrect,2
+Personal line of credit,Incorrect information on your report,Account status incorrect,2
+Private student loan,Getting a loan,Denied loan,2
+Private student loan,Incorrect information on your report,Account information incorrect,2
+Private student loan debt,Took or threatened to take negative or legal action,Sued you without properly notifying you of lawsuit,2
+Private student loan debt,Written notification about debt,Didn't receive notice of right to dispute,2
+CD (Certificate of Deposit),Opening an account,Confusing or missing disclosures,2
+Payroll card,Advertising,Changes in terms from what was offered or advertised,2
+CD (Certificate of Deposit),Opening an account,Account opened as a result of fraud,2
+Savings account,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,2
+Store credit card,Credit monitoring or identity theft protection services,Problem with product or service terms changing,2
+Store credit card,Incorrect information on your report,Information is missing that should be on the report,2
+Store credit card,Incorrect information on your report,Personal information incorrect,2
+Store credit card,"Other features, terms, or problems",Credit card company forcing arbitration,2
+Auto debt,Took or threatened to take negative or legal action,Collected or attempted to collect exempt funds,2
+Auto debt,Threatened to contact someone or share information improperly,Contacted you after you asked them to stop,2
+Student prepaid card,Unexpected or other fees,None,2
+Auto debt,False statements or representation,"Impersonated attorney, law enforcement, or government official",2
+Title loan,Money was taken from your bank account on the wrong day or for the wrong amount,None,2
+Auto debt,Communication tactics,Called before 8am or after 9pm,2
+Reverse mortgage,Trouble during payment process,None,2
+Payday loan debt,Took or threatened to take negative or legal action,Threatened to arrest you or take you to jail if you do not pay,2
+Payroll card,Trouble using the card,Problem with direct deposit,2
+General-purpose credit card or charge card,Improper use of your report,Received unsolicited financial product or insurance offers after opting out,2
+Credit card debt,Threatened to contact someone or share information improperly,Contacted you instead of your attorney,2
+Mortgage debt,Took or threatened to take negative or legal action,Threatened or suggested your credit would be damaged,2
+Mortgage debt,Threatened to contact someone or share information improperly,Talked to a third-party about your debt,2
+Other banking product or service,Incorrect information on your report,Account status incorrect,2
+Mortgage debt,Communication tactics,"Used obscene, profane, or other abusive language",2
+Other debt,Threatened to contact someone or share information improperly,Contacted your employer,2
+Mortgage debt,False statements or representation,Told you not to respond to a lawsuit they filed against you,2
+Other personal consumer report,Problem with a company's investigation into an existing issue,Investigation took more than 30 days,2
+Other type of mortgage,Improper use of your report,None,2
+Payday loan,Can't contact lender or servicer,None,2
+Mortgage debt,Written notification about debt,Didn't receive notice of right to dispute,2
+Traveler's check or cashier's check,Confusing or misleading advertising or marketing,None,3
+Traveler's check or cashier's check,Unexpected or other fees,None,3
+Loan,Incorrect information on your report,Information is missing that should be on the report,3
+Gift card,Problem getting a card or closing an account,Trouble getting a working replacement card,3
+Virtual currency,Confusing or missing disclosures,None,3
+Lease,Struggling to pay your loan,Loan balance remaining after the vehicle is repossessed and sold,3
+Government benefit card,Problem getting a card or closing an account,Don't want a card provided by your employer or the government,3
+Lease,Managing the loan or lease,Problem with additional products or services purchased with the loan,3
+Lease,Managing the loan or lease,Loan sold or transferred to another company,3
+Loan,Problem with a credit reporting company's investigation into an existing problem,Was not notified of investigation status or results,3
+I do not know,Communication tactics,Called before 8am or after 9pm,3
+Payday loan,Charged fees or interest you didn't expect,None,3
+Other banking product or service,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,3
+Private student loan debt,Took or threatened to take negative or legal action,Threatened to sue you for very old debt,3
+Lease,Getting a loan or lease,Changes in terms mid-deal or after closing,3
+Private student loan,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,3
+General-purpose credit card or charge card,Incorrect information on your report,Personal information incorrect,3
+Private student loan,Getting a loan,Problem with the interest rate,3
+Other debt,Communication tactics,"Used obscene, profane, or other abusive language",3
+International money transfer,Confusing or missing disclosures,None,3
+Installment loan,Incorrect information on your report,Account information incorrect,3
+Payroll card,Trouble using the card,Trouble using the card to spend money in a store or online,3
+Government benefit card,Trouble using the card,Trouble using the card to pay a bill,3
+Other debt,Written notification about debt,Notification didn't disclose it was an attempt to collect a debt,3
+I do not know,Took or threatened to take negative or legal action,Collected or attempted to collect exempt funds,3
+Mortgage debt,Took or threatened to take negative or legal action,Threatened to arrest you or take you to jail if you do not pay,3
+Other banking product or service,Problem caused by your funds being low,Bounced checks or returned payments,3
+Virtual currency,Wrong amount charged or received,None,3
+Debt settlement,Problem with customer service,None,3
+Auto debt,Threatened to contact someone or share information improperly,Talked to a third-party about your debt,3
+Federal student loan servicing,Dealing with your lender or servicer,Need information about your loan balance or loan terms,3
+Checking account,Incorrect information on your report,Public record information inaccurate,3
+Foreign currency exchange,Confusing or missing disclosures,None,3
+Auto debt,Took or threatened to take negative or legal action,Threatened to sue you for very old debt,3
+Other debt,Took or threatened to take negative or legal action,Collected or attempted to collect exempt funds,4
+Title loan,Vehicle was repossessed or sold the vehicle,None,4
+Title loan,Vehicle was damaged or destroyed the vehicle,None,4
+Installment loan,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,4
+Other personal consumer report,Improper use of your report,Report provided to employer without your written authorization,4
+Credit repair services,Excessive fees,None,4
+Government benefit card,Problem getting a card or closing an account,Trouble getting a working replacement card,4
+General-purpose credit card or charge card,Credit monitoring or identity theft protection services,Problem with product or service terms changing,4
+Government benefit card,Problem getting a card or closing an account,Trouble closing card,4
+Foreign currency exchange,Problem with customer service,None,4
+Private student loan debt,Took or threatened to take negative or legal action,Threatened or suggested your credit would be damaged,4
+Other personal consumer report,Incorrect information on your report,Old information reappears or never goes away,4
+Gift card,Problem with a purchase or transfer,Charged for a purchase or transfer you did not make with the card,4
+General-purpose prepaid card,Problem with a purchase or transfer,Overcharged for a purchase or transfer you did make with the card,4
+Mortgage debt,Communication tactics,"You told them to stop contacting you, but they keep trying",4
+Other banking product or service,Problem caused by your funds being low,Late or other fees,4
+Lease,Incorrect information on your report,Information belongs to someone else,4
+Auto debt,False statements or representation,Indicated you were committing crime by not paying debt,4
+General-purpose prepaid card,Trouble using the card,Problem with a check written from your prepaid card account,4
+Lease,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,4
+Money order,Problem with customer service,None,4
+Lease,Incorrect information on your report,Account information incorrect,4
+General-purpose credit card or charge card,Incorrect information on your report,Public record information inaccurate,4
+Savings account,Problem caused by your funds being low,Overdrafts and overdraft fees,4
+Payday loan,Loan payment wasn't credited to your account,None,4
+Lease,Struggling to pay your loan,Denied request to lower payments,4
+CD (Certificate of Deposit),Opening an account,Didn't receive terms that were advertised,4
+Store credit card,Improper use of your report,Credit inquiries on your report that you don't recognize,4
+Check cashing service,Confusing or missing disclosures,None,4
+Store credit card,"Other features, terms, or problems",Problem with balance transfer,4
+Auto debt,Took or threatened to take negative or legal action,Sued you without properly notifying you of lawsuit,4
+Reverse mortgage,Struggling to pay mortgage,None,4
+I do not know,Threatened to contact someone or share information improperly,Contacted your employer,4
+I do not know,Written notification about debt,Notification didn't disclose it was an attempt to collect a debt,4
+Personal line of credit,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,4
+I do not know,Threatened to contact someone or share information improperly,Talked to a third-party about your debt,4
+Other debt,Took or threatened to take negative or legal action,Sued you without properly notifying you of lawsuit,4
+Payroll card,Trouble using the card,Problem using the card to withdraw money from an ATM,4
+VA mortgage,Problem with a credit reporting company's investigation into an existing problem,None,4
+I do not know,Communication tactics,"Used obscene, profane, or other abusive language",5
+I do not know,Took or threatened to take negative or legal action,Sued you without properly notifying you of lawsuit,5
+Conventional home mortgage,Improper use of your report,None,5
+Checking account,Incorrect information on your report,Account information incorrect,5
+Loan,Unable to get your credit report or credit score,Other problem getting your report or credit score,5
+Checking account,Improper use of your report,Reporting company used your report improperly,5
+Loan,Improper use of your report,Reporting company used your report improperly,5
+Federal student loan servicing,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,5
+Mortgage debt,Took or threatened to take negative or legal action,Threatened to sue you for very old debt,5
+Personal line of credit,Incorrect information on your report,Information belongs to someone else,5
+Store credit card,Getting a credit card,Delay in processing application,5
+Gift card,Trouble using the card,Trouble getting information about the card,5
+Store credit card,Credit monitoring or identity theft protection services,Billing dispute for services,5
+Loan,Getting a loan or lease,Problem with signing the paperwork,5
+Title loan,Loan payment wasn't credited to your account,None,5
+Lease,Problems at the end of the loan or lease,Unable to receive car title or other problem after the loan is paid off,5
+Lease,Struggling to pay your loan,Lender trying to repossess or disable the vehicle,5
+Other debt,False statements or representation,Indicated you were committing crime by not paying debt,5
+Loan,Getting a loan or lease,Problem with additional add-on products or services purchased with the loan,5
+General-purpose credit card or charge card,Problem with fraud alerts or security freezes,None,5
+Auto debt,Communication tactics,"Used obscene, profane, or other abusive language",5
+Lease,Problem with a credit reporting company's investigation into an existing problem,Problem with personal statement of dispute,5
+CD (Certificate of Deposit),Closing an account,Company closed your account,5
+Auto debt,Attempts to collect debt not owed,Debt was already discharged in bankruptcy and is no longer owed,5
+Mobile or digital wallet,"Overdraft, savings, or rewards features",None,5
+General-purpose prepaid card,Advertising,Changes in terms from what was offered or advertised,5
+Lease,Problems at the end of the loan or lease,Problem extending the lease,5
+Savings account,Managing an account,Cashing a check,5
+I do not know,False statements or representation,"Impersonated attorney, law enforcement, or government official",6
+Store credit card,Improper use of your report,Reporting company used your report improperly,6
+Traveler's check or cashier's check,Confusing or missing disclosures,None,6
+Private student loan debt,Attempts to collect debt not owed,Debt was already discharged in bankruptcy and is no longer owed,6
+Other debt,Attempts to collect debt not owed,Debt was already discharged in bankruptcy and is no longer owed,6
+Savings account,Problem caused by your funds being low,Late or other fees,6
+General-purpose prepaid card,Problem with overdraft,Overdraft charges,6
+Personal line of credit,Problem with cash advance,None,6
+Store credit card,Incorrect information on your report,Old information reappears or never goes away,6
+Government benefit card,Problem getting a card or closing an account,"Trouble getting, activating, or registering a card",6
+Payroll card,Problem with a purchase or transfer,Card company isn't resolving a dispute about a purchase or transfer,6
+International money transfer,Other service problem,None,6
+Foreign currency exchange,Unexpected or other fees,None,6
+I do not know,Took or threatened to take negative or legal action,Seized or attempted to seize your property,6
+Mobile or digital wallet,Confusing or missing disclosures,None,7
+Store credit card,Problem with a credit reporting company's investigation into an existing problem,Problem with personal statement of dispute,7
+Other personal consumer report,Identity theft protection or other monitoring services,Received unwanted marketing or advertising,7
+CD (Certificate of Deposit),Managing an account,Problem with renewal,7
+I do not know,Threatened to contact someone or share information improperly,Contacted you after you asked them to stop,7
+Checking account,Incorrect information on your report,Account status incorrect,7
+VA mortgage,Incorrect information on your report,None,7
+I do not know,Took or threatened to take negative or legal action,Threatened to arrest you or take you to jail if you do not pay,7
+Private student loan,Getting a loan,Fraudulent loan,7
+Installment loan,Struggling to pay your loan,None,7
+Private student loan debt,False statements or representation,Attempted to collect wrong amount,7
+General-purpose credit card or charge card,Credit monitoring or identity theft protection services,Billing dispute for services,7
+Other personal consumer report,Incorrect information on your report,Personal information incorrect,7
+Mortgage debt,False statements or representation,"Impersonated attorney, law enforcement, or government official",7
+Loan,Incorrect information on your report,Old information reappears or never goes away,7
+Lease,Problems at the end of the loan or lease,Problem with paying off the loan,7
+Other personal consumer report,Incorrect information on your report,Information that should be on the report is missing,7
+Other debt,Communication tactics,"You told them to stop contacting you, but they keep trying",7
+Auto debt,Took or threatened to take negative or legal action,Seized or attempted to seize your property,7
+Money order,Lost or stolen money order,None,7
+Auto debt,Written notification about debt,Didn't receive notice of right to dispute,7
+Other debt,Took or threatened to take negative or legal action,Seized or attempted to seize your property,7
+Home equity loan or line of credit (HELOC),Problem with a credit reporting company's investigation into an existing problem,None,7
+Installment loan,Problem with additional add-on products or services,None,7
+Mortgage debt,Communication tactics,Frequent or repeated calls,8
+Mobile or digital wallet,Confusing or misleading advertising or marketing,None,8
+Private student loan,Getting a loan,Confusing or misleading advertising,8
+Loan,Getting a loan or lease,High-pressure sales tactics,8
+Other personal consumer report,Identity theft protection or other monitoring services,Didn't receive services that were advertised,8
+Private student loan,Incorrect information on your report,Account status incorrect,8
+Other debt,Threatened to contact someone or share information improperly,Talked to a third-party about your debt,8
+Other personal consumer report,Identity theft protection or other monitoring services,Problem canceling credit monitoring or identify theft protection service,8
+Store credit card,Getting a credit card,Problem getting a working replacement card,8
+Other debt,Took or threatened to take negative or legal action,Threatened to arrest you or take you to jail if you do not pay,8
+Title loan,Charged fees or interest you didn't expect,None,8
+Savings account,Problem with a lender or other company charging your account,Money was taken from your account on the wrong day or for the wrong amount,8
+Other personal consumer report,Identity theft protection or other monitoring services,Billing dispute for services,9
+Credit reporting,Unable to get your credit report or credit score,Problem getting your free annual credit report,9
+Credit repair services,Unexpected or other fees,None,9
+General-purpose prepaid card,Trouble using the card,Trouble using the card to pay a bill,9
+Lease,Problems at the end of the loan or lease,Problem while selling or giving up the vehicle,9
+Private student loan debt,Written notification about debt,Didn't receive enough information to verify debt,9
+Other banking product or service,Problem with a lender or other company charging your account,Can't stop withdrawals from your account,9
+Check cashing service,Unexpected or other fees,None,9
+Other debt,False statements or representation,"Impersonated attorney, law enforcement, or government official",9
+Store credit card,Problem with a credit reporting company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,9
+Store credit card,"Other features, terms, or problems",Problem with rewards from credit card,9
+Gift card,Unexpected or other fees,None,9
+Store credit card,"Other features, terms, or problems",Privacy issues,9
+Loan,Problem with a credit reporting company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,9
+Foreign currency exchange,Fraud or scam,None,9
+Other personal consumer report,Identity theft protection or other monitoring services,Problem with product or service terms changing,9
+Loan,Improper use of your report,Credit inquiries on your report that you don't recognize,9
+Private student loan,Struggling to repay your loan,Can't temporarily delay making payments,9
+Store credit card,Problem with a credit reporting company's investigation into an existing problem,Was not notified of investigation status or results,9
+Virtual currency,Money was not available when promised,None,9
+Other personal consumer report,Improper use of your report,Received unsolicited financial product or insurance offers after opting out,9
+Checking account,Problem with fraud alerts or security freezes,None,9
+Savings account,Opening an account,Confusing or missing disclosures,9
+General-purpose credit card or charge card,Unable to get your credit report or credit score,Other problem getting your report or credit score,9
+CD (Certificate of Deposit),Opening an account,Unable to open an account,10
+General-purpose credit card or charge card,Trouble using your card,Account sold or transferred to another company,10
+General-purpose credit card or charge card,Incorrect information on your report,Information is missing that should be on the report,10
+Refund anticipation check,Problem with customer service,None,10
+Credit reporting,Credit monitoring or identity theft protection services,Received unwanted marketing or advertising,10
+Auto debt,Took or threatened to take negative or legal action,Threatened or suggested your credit would be damaged,10
+I do not know,Attempts to collect debt not owed,Debt was already discharged in bankruptcy and is no longer owed,10
+Checking account,Incorrect information on your report,Information belongs to someone else,10
+CD (Certificate of Deposit),Closing an account,Fees charged for closing account,10
+Federal student loan servicing,Dealing with your lender or servicer,Received bad information about your loan,10
+Credit repair services,Confusing or missing disclosures,None,10
+Government benefit card,Problem with a purchase or transfer,Charged for a purchase or transfer you did not make with the card,10
+Gift card,Problem with a purchase or transfer,Card company isn't resolving a dispute about a purchase or transfer,10
+Private student loan,Dealing with your lender or servicer,Keep getting calls about your loan,10
+Domestic (US) money transfer,Unexpected or other fees,None,10
+Savings account,Closing an account,Fees charged for closing account,10
+General-purpose prepaid card,Advertising,Confusing or misleading advertising about the card,11
+Lease,Problems at the end of the loan or lease,Problem when attempting to purchase vehicle at the end of the lease,11
+Payroll card,Unexpected or other fees,None,11
+Other banking product or service,Problem caused by your funds being low,Overdrafts and overdraft fees,11
+Refund anticipation check,Lost or stolen check,None,11
+General-purpose prepaid card,Trouble using the card,Problem adding money,11
+Loan,Struggling to pay your loan,Problem after you declared or threatened to declare bankruptcy,11
+CD (Certificate of Deposit),Managing an account,Problem with fees or penalties,12
+Store credit card,Incorrect information on your report,Information belongs to someone else,12
+Savings account,Problem with a lender or other company charging your account,Can't stop withdrawals from your account,12
+Lease,Incorrect information on your report,Account status incorrect,12
+Refund anticipation check,Fraud or scam,None,12
+Other debt,Took or threatened to take negative or legal action,Threatened or suggested your credit would be damaged,12
+General-purpose credit card or charge card,Problem with a credit reporting company's investigation into an existing problem,Investigation took more than 30 days,12
+General-purpose prepaid card,Problem getting a card or closing an account,Trouble getting a working replacement card,12
+Other banking product or service,Problem caused by your funds being low,Non-sufficient funds and associated fees,12
+Loan,Credit monitoring or identity theft protection services,Billing dispute for services,12
+Foreign currency exchange,Incorrect exchange rate,None,12
+Other banking product or service,Closing an account,Fees charged for closing account,12
+Savings account,Problem caused by your funds being low,Non-sufficient funds and associated fees,12
+I do not know,Took or threatened to take negative or legal action,Threatened or suggested your credit would be damaged,12
+Mortgage debt,Written notification about debt,Didn't receive enough information to verify debt,12
+Credit repair services,Confusing or misleading advertising or marketing,None,12
+Government benefit card,Problem with a purchase or transfer,Card company isn't resolving a dispute about a purchase or transfer,12
+Loan,Problem with a credit reporting company's investigation into an existing problem,Problem with personal statement of dispute,12
+Personal line of credit,Credit limit changed,None,13
+Other personal consumer report,Problem with a company's investigation into an existing issue,Was not notified of investigation status or results,13
+Other debt,Communication tactics,Frequent or repeated calls,13
+CD (Certificate of Deposit),Managing an account,Problem accessing account,13
+Savings account,Opening an account,Account opened as a result of fraud,13
+FHA mortgage,Problem with a credit reporting company's investigation into an existing problem,None,13
+Personal line of credit,Problem with additional add-on products or services,None,13
+Gift card,Trouble using the card,Trouble using the card to spend money in a store or online,13
+Private student loan,Dealing with your lender or servicer,Problem with customer service,13
+Title loan,Can't contact lender or servicer,None,13
+Debt settlement,Fraud or scam,None,13
+Loan,Incorrect information on your report,Information belongs to someone else,13
+General-purpose credit card or charge card,Struggling to pay your bill,Filed for bankruptcy,13
+International money transfer,Wrong amount charged or received,None,13
+Lease,Problems at the end of the loan or lease,Termination fees or other problem when ending the lease early,14
+Credit card debt,Threatened to contact someone or share information improperly,Contacted you after you asked them to stop,14
+Check cashing service,Fraud or scam,None,14
+General-purpose credit card or charge card,"Other features, terms, or problems",Problem with convenience check,14
+Other personal consumer report,Incorrect information on your report,Public record information inaccurate,14
+I do not know,False statements or representation,Attempted to collect wrong amount,14
+Credit reporting,Credit monitoring or identity theft protection services,Didn't receive services that were advertised,15
+International money transfer,Unexpected or other fees,None,15
+I do not know,Written notification about debt,Didn't receive notice of right to dispute,15
+Mortgage debt,Attempts to collect debt not owed,Debt was result of identity theft,15
+Other type of mortgage,Incorrect information on your report,None,15
+Personal line of credit,Struggling to pay your loan,None,15
+Other personal consumer report,Problem with a company's investigation into an existing issue,Problem with personal statement of dispute,15
+Credit card debt,False statements or representation,Told you not to respond to a lawsuit they filed against you,15
+Title loan,Problem with the payoff process at the end of the loan,None,15
+Store credit card,Problem with a purchase shown on your statement,Overcharged for something you did purchase with the card,15
+Other banking product or service,Problem with a lender or other company charging your account,Money was taken from your account on the wrong day or for the wrong amount,16
+Private student loan,Dealing with your lender or servicer,Need information about your loan balance or loan terms,16
+General-purpose credit card or charge card,Struggling to pay your bill,Problem lowering your monthly payments,16
+CD (Certificate of Deposit),Managing an account,Banking errors,16
+Credit card debt,Took or threatened to take negative or legal action,Sued you in a state where you do not live or did not sign for the debt,16
+I do not know,Attempts to collect debt not owed,Debt was paid,17
+Auto debt,Written notification about debt,Didn't receive enough information to verify debt,17
+Other banking product or service,Opening an account,Confusing or missing disclosures,17
+Other personal consumer report,Problem with a company's investigation into an existing issue,Their investigation did not fix an error on your report,17
+Credit reporting,Improper use of your report,Report provided to employer without your written authorization,17
+Government benefit card,Unexpected or other fees,None,17
+I do not know,Written notification about debt,Didn't receive enough information to verify debt,17
+Mobile or digital wallet,Problem adding money,None,17
+Credit reporting,Improper use of your report,Received unsolicited financial product or insurance offers after opting out,17
+Virtual currency,Other service problem,None,17
+Credit repair services,Problem with customer service,None,17
+Other personal consumer report,Problem with a company's investigation into an existing issue,Difficulty submitting a dispute or getting information about a dispute over the phone,18
+Lease,Managing the loan or lease,Problem with fees charged,18
+Private student loan,Struggling to repay your loan,Problem lowering your monthly payments,18
+Mortgage debt,Attempts to collect debt not owed,Debt is not yours,19
+Check cashing service,Problem with customer service,None,19
+Credit reporting,Credit monitoring or identity theft protection services,Problem with product or service terms changing,19
+Store credit card,"Other features, terms, or problems",Add-on products and services,19
+General-purpose prepaid card,Trouble using the card,Problem using the card to withdraw money from an ATM,19
+CD (Certificate of Deposit),Closing an account,Can't close your account,19
+Other debt,Written notification about debt,Didn't receive notice of right to dispute,19
+General-purpose prepaid card,Trouble using the card,Problem with direct deposit,20
+Traveler's check or cashier's check,Lost or stolen check,None,20
+Other banking product or service,Managing an account,Cashing a check,20
+Traveler's check or cashier's check,Problem with customer service,None,20
+General-purpose credit card or charge card,Improper use of your report,Reporting company used your report improperly,21
+Loan,Managing the loan or lease,Loan sold or transferred to another company,21
+Loan,Getting a loan or lease,Changes in terms mid-deal or after closing,21
+Private student loan,Dealing with your lender or servicer,Don't agree with the fees charged,21
+Home equity loan or line of credit (HELOC),Incorrect information on your report,None,21
+Credit card debt,False statements or representation,Indicated you were committing crime by not paying debt,21
+Savings account,Managing an account,Problem making or receiving payments,21
+Installment loan,Problem with the payoff process at the end of the loan,None,21
+General-purpose credit card or charge card,Incorrect information on your report,Old information reappears or never goes away,22
+Money order,Fraud or scam,None,23
+General-purpose credit card or charge card,"Other features, terms, or problems",Problem with cash advances,23
+Auto debt,Attempts to collect debt not owed,Debt was result of identity theft,23
+Credit card debt,Written notification about debt,Notification didn't disclose it was an attempt to collect a debt,23
+Store credit card,Getting a credit card,Sent card you never applied for,24
+Credit repair services,Fraud or scam,None,24
+Credit card debt,Threatened to contact someone or share information improperly,Contacted your employer,24
+Loan,Problems at the end of the loan or lease,Problem related to refinancing,24
+General-purpose prepaid card,Problem getting a card or closing an account,"Trouble getting, activating, or registering a card",25
+Credit card debt,Communication tactics,Called before 8am or after 9pm,25
+Other personal consumer report,Incorrect information on your report,Information belongs to someone else,25
+Other banking product or service,Opening an account,Account opened as a result of fraud,25
+Other debt,False statements or representation,Attempted to collect wrong amount,25
+Conventional home mortgage,Problem with a credit reporting company's investigation into an existing problem,None,25
+Other debt,Written notification about debt,Didn't receive enough information to verify debt,25
+I do not know,Communication tactics,"You told them to stop contacting you, but they keep trying",25
+Store credit card,"Other features, terms, or problems",Problem with customer service,25
+General-purpose prepaid card,Trouble using the card,Trouble getting information about the card,25
+Auto debt,Communication tactics,Frequent or repeated calls,26
+General-purpose credit card or charge card,Problem with a credit reporting company's investigation into an existing problem,Problem with personal statement of dispute,26
+Domestic (US) money transfer,Wrong amount charged or received,None,26
+Auto debt,Communication tactics,"You told them to stop contacting you, but they keep trying",26
+Store credit card,Fees or interest,Unexpected increase in interest rate,26
+Personal line of credit,Problem with the payoff process at the end of the loan,None,26
+Savings account,Managing an account,Problem using a debit or ATM card,26
+General-purpose credit card or charge card,Problem with a credit reporting company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,27
+VA mortgage,Closing on a mortgage,None,27
+Mortgage debt,Attempts to collect debt not owed,Debt was already discharged in bankruptcy and is no longer owed,27
+Store credit card,Incorrect information on your report,Account status incorrect,27
+Private student loan,Struggling to repay your loan,Can't get other flexible options for repaying your loan,27
+Virtual currency,Other transaction problem,None,27
+FHA mortgage,Incorrect information on your report,None,27
+CD (Certificate of Deposit),Managing an account,Funds not handled or disbursed as instructed,28
+Other banking product or service,Managing an account,Fee problem,28
+Other personal consumer report,Incorrect information on your report,Information is incorrect,28
+Loan,Problems at the end of the loan or lease,Problem while selling or giving up the vehicle,28
+CD (Certificate of Deposit),Closing an account,Funds not received from closed account,28
+Domestic (US) money transfer,Confusing or missing disclosures,None,28
+Loan,Incorrect information on your report,Account information incorrect,29
+Store credit card,Trouble using your card,Credit card company won't increase or decrease your credit limit,29
+I do not know,Took or threatened to take negative or legal action,Threatened to sue you for very old debt,29
+Credit reporting,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,29
+Store credit card,Incorrect information on your report,Account information incorrect,29
+Other banking product or service,Opening an account,Unable to open an account,29
+Credit card debt,Communication tactics,"Used obscene, profane, or other abusive language",30
+Mortgage debt,Attempts to collect debt not owed,Debt was paid,30
+Mortgage debt,Took or threatened to take negative or legal action,Seized or attempted to seize your property,30
+Savings account,Opening an account,Unable to open an account,31
+Auto debt,Attempts to collect debt not owed,Debt is not yours,31
+Store credit card,Struggling to pay your bill,Credit card company won't work with you while you're going through financial hardship,31
+Other banking product or service,Managing an account,Problem using a debit or ATM card,31
+Lease,Managing the loan or lease,Billing problem,31
+Loan,Getting a loan or lease,Confusing or misleading advertising or marketing,32
+Other debt,Attempts to collect debt not owed,Debt was result of identity theft,32
+Store credit card,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,32
+Credit card debt,Took or threatened to take negative or legal action,Threatened to arrest you or take you to jail if you do not pay,33
+Loan,Getting a loan or lease,Credit denial,33
+Installment loan,Charged fees or interest you didn't expect,None,33
+Other type of mortgage,Applying for a mortgage,None,33
+General-purpose credit card or charge card,"Other features, terms, or problems",Credit card company forcing arbitration,33
+Credit card debt,Took or threatened to take negative or legal action,Seized or attempted to seize your property,34
+Credit card debt,Took or threatened to take negative or legal action,Collected or attempted to collect exempt funds,34
+Auto debt,False statements or representation,Attempted to collect wrong amount,34
+Store credit card,Trouble using your card,Can't use card to make purchases,34
+Credit card debt,False statements or representation,"Impersonated attorney, law enforcement, or government official",34
+Mobile or digital wallet,"Managing, opening, or closing your mobile wallet account",None,35
+Lease,Problems at the end of the loan or lease,"Excess mileage, damage, or wear fees, or other problem after the lease is finish",35
+Mortgage debt,False statements or representation,Attempted to collect wrong amount,36
+Installment loan,Problem when making payments,None,36
+Other banking product or service,Closing an account,Funds not received from closed account,36
+Private student loan,Dealing with your lender or servicer,Received bad information about your loan,37
+Auto debt,Attempts to collect debt not owed,Debt was paid,37
+Other banking product or service,Closing an account,Can't close your account,38
+Loan,Managing the loan or lease,Problem with the interest rate,39
+General-purpose credit card or charge card,Improper use of your report,Credit inquiries on your report that you don't recognize,39
+Store credit card,Closing your account,Can't close your account,39
+Other banking product or service,Opening an account,Didn't receive terms that were advertised,40
+I do not know,Communication tactics,Frequent or repeated calls,40
+Installment loan,Getting the loan,None,41
+Other debt,Attempts to collect debt not owed,Debt was paid,41
+CD (Certificate of Deposit),Managing an account,Deposits or withdrawals,43
+Savings account,Closing an account,Company closed your account,43
+Checking account,Problem caused by your funds being low,Late or other fees,43
+General-purpose prepaid card,Problem getting a card or closing an account,Trouble closing card,45
+VA mortgage,Applying for a mortgage or refinancing an existing mortgage,None,45
+Personal line of credit,Getting a line of credit,None,46
+Personal line of credit,Problem when making payments,None,47
+Private student loan,Dealing with your lender or servicer,Trouble with how payments are being handled,47
+Other banking product or service,Closing an account,Company closed your account,48
+International money transfer,Money was not available when promised,None,48
+Other debt,Attempts to collect debt not owed,Debt is not yours,49
+Checking account,Opening an account,Confusing or missing disclosures,50
+General-purpose credit card or charge card,Problem with a credit reporting company's investigation into an existing problem,Was not notified of investigation status or results,51
+International money transfer,Fraud or scam,None,52
+Loan,Incorrect information on your report,Account status incorrect,52
+Traveler's check or cashier's check,Fraud or scam,None,52
+Personal line of credit,Charged fees or interest you didn't expect,None,53
+Savings account,Managing an account,Problem accessing account,53
+Store credit card,Getting a credit card,Application denied,54
+Credit card debt,Threatened to contact someone or share information improperly,Talked to a third-party about your debt,54
+Credit reporting,Problem with fraud alerts or security freezes,None,55
+I do not know,Attempts to collect debt not owed,Debt was result of identity theft,56
+Store credit card,"Advertising and marketing, including promotional offers",Didn't receive advertised or promotional terms,56
+Virtual currency,Fraud or scam,None,56
+Conventional home mortgage,Incorrect information on your report,None,57
+Savings account,Managing an account,Fee problem,57
+Credit reporting,Incorrect information on your report,Personal information incorrect,58
+Savings account,Problem with a lender or other company charging your account,Transaction was not authorized,58
+Loan,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,58
+Loan,Getting a loan or lease,Fraudulent loan,59
+Savings account,Closing an account,Funds not received from closed account,60
+Loan,Struggling to pay your loan,Loan balance remaining after the vehicle is repossessed and sold,61
+Domestic (US) money transfer,Other service problem,None,62
+Other type of mortgage,Closing on a mortgage,None,63
+Other banking product or service,Managing an account,Problem making or receiving payments,63
+General-purpose credit card or charge card,Incorrect information on your report,Information belongs to someone else,65
+Savings account,Closing an account,Can't close your account,65
+Checking account,Problem caused by your funds being low,Bounced checks or returned payments,65
+General-purpose prepaid card,Trouble using the card,Trouble using the card to spend money in a store or online,67
+Other banking product or service,Problem with a lender or other company charging your account,Transaction was not authorized,67
+Store credit card,"Advertising and marketing, including promotional offers",Confusing or misleading advertising about the credit card,69
+Other personal consumer report,Improper use of your report,Reporting company used your report improperly,70
+Store credit card,Fees or interest,Charged too much interest,71
+VA mortgage,Struggling to pay mortgage,None,71
+Credit card debt,Took or threatened to take negative or legal action,Sued you without properly notifying you of lawsuit,74
+Credit reporting,Unable to get your credit report or credit score,Other problem getting your report or credit score,76
+Store credit card,Closing your account,Company closed your account,78
+International money transfer,Other transaction problem,None,79
+Other debt,Took or threatened to take negative or legal action,Threatened to sue you for very old debt,80
+Store credit card,Getting a credit card,Card opened as result of identity theft or fraud,80
+FHA mortgage,Applying for a mortgage or refinancing an existing mortgage,None,80
+General-purpose prepaid card,Problem with a purchase or transfer,Charged for a purchase or transfer you did not make with the card,80
+Credit reporting,Credit monitoring or identity theft protection services,Billing dispute for services,80
+Loan,Managing the loan or lease,Problem with additional products or services purchased with the loan,83
+General-purpose credit card or charge card,Getting a credit card,Problem getting a working replacement card,84
+Savings account,Managing an account,Funds not handled or disbursed as instructed,84
+FHA mortgage,Closing on a mortgage,None,85
+Credit reporting,Problem with a credit reporting company's investigation into an existing problem,Investigation took more than 30 days,85
+Savings account,Opening an account,Didn't receive terms that were advertised,87
+Credit reporting,Incorrect information on your report,Public record information inaccurate,87
+Checking account,Closing an account,Fees charged for closing account,87
+Credit card debt,Attempts to collect debt not owed,Debt was already discharged in bankruptcy and is no longer owed,91
+Other banking product or service,Managing an account,Deposits and withdrawals,92
+Loan,Struggling to pay your loan,Lender trying to repossess or disable the vehicle,92
+Home equity loan or line of credit (HELOC),Closing on a mortgage,None,92
+Domestic (US) money transfer,Money was not available when promised,None,93
+Mobile or digital wallet,Unauthorized transactions or other transaction problem,None,93
+Other banking product or service,Managing an account,Banking errors,96
+Other banking product or service,Managing an account,Problem accessing account,96
+Loan,Problems at the end of the loan or lease,Problem with paying off the loan,98
+General-purpose credit card or charge card,"Other features, terms, or problems",Add-on products and services,101
+Store credit card,Problem when making payments,You never received your bill or did not know a payment was due,105
+Other banking product or service,Managing an account,Funds not handled or disbursed as instructed,106
+Credit card debt,Communication tactics,"You told them to stop contacting you, but they keep trying",108
+Loan,Managing the loan or lease,Problem with fees charged,109
+Store credit card,Problem with a purchase shown on your statement,Card was charged for something you did not purchase with the card,110
+Checking account,Problem with a lender or other company charging your account,Can't stop withdrawals from your account,110
+Store credit card,"Other features, terms, or problems",Other problem,113
+Savings account,Managing an account,Banking errors,113
+Loan,Struggling to pay your loan,Denied request to lower payments,113
+Credit card debt,Took or threatened to take negative or legal action,Threatened or suggested your credit would be damaged,115
+Credit reporting,Problem with a credit reporting company's investigation into an existing problem,Was not notified of investigation status or results,116
+VA mortgage,Trouble during payment process,None,118
+General-purpose credit card or charge card,Incorrect information on your report,Account information incorrect,122
+I do not know,Attempts to collect debt not owed,Debt is not yours,124
+General-purpose credit card or charge card,Problem with a purchase shown on your statement,Overcharged for something you did purchase with the card,126
+Other type of mortgage,Trouble during payment process,None,126
+General-purpose credit card or charge card,"Other features, terms, or problems",Privacy issues,127
+General-purpose credit card or charge card,Getting a credit card,Delay in processing application,127
+Home equity loan or line of credit (HELOC),Applying for a mortgage or refinancing an existing mortgage,None,128
+General-purpose prepaid card,Unexpected or other fees,None,128
+Credit card debt,Written notification about debt,Didn't receive notice of right to dispute,131
+General-purpose credit card or charge card,Getting a credit card,Sent card you never applied for,132
+Other type of mortgage,Struggling to pay mortgage,None,132
+Savings account,Managing an account,Deposits and withdrawals,136
+General-purpose credit card or charge card,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,139
+General-purpose credit card or charge card,Incorrect information on your report,Account status incorrect,143
+General-purpose prepaid card,Problem with a purchase or transfer,Card company isn't resolving a dispute about a purchase or transfer,145
+Checking account,Problem with a lender or other company charging your account,Money was taken from your account on the wrong day or for the wrong amount,150
+Home equity loan or line of credit (HELOC),Struggling to pay mortgage,None,150
+Credit reporting,Incorrect information on your report,Information is missing that should be on the report,154
+Loan,Problems at the end of the loan or lease,Unable to receive car title or other problem after the loan is paid off,158
+Credit card debt,Took or threatened to take negative or legal action,Threatened to sue you for very old debt,159
+Checking account,Managing an account,Cashing a check,176
+General-purpose credit card or charge card,"Other features, terms, or problems",Problem with balance transfer,176
+Checking account,Opening an account,Account opened as a result of fraud,182
+Store credit card,Problem when making payments,Problem during payment process,186
+General-purpose credit card or charge card,Fees or interest,Unexpected increase in interest rate,211
+Credit reporting,Problem with a credit reporting company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,217
+Store credit card,Problem with a purchase shown on your statement,Credit card company isn't resolving a dispute about a purchase on your statement,220
+Checking account,Problem caused by your funds being low,Non-sufficient funds and associated fees,223
+General-purpose credit card or charge card,Trouble using your card,Credit card company won't increase or decrease your credit limit,230
+Credit reporting,Incorrect information on your report,Old information reappears or never goes away,231
+Credit card debt,False statements or representation,Attempted to collect wrong amount,234
+Store credit card,Fees or interest,Problem with fees,240
+Domestic (US) money transfer,Other transaction problem,None,246
+Checking account,Closing an account,Can't close your account,248
+Credit reporting,Problem with a credit reporting company's investigation into an existing problem,Problem with personal statement of dispute,258
+General-purpose credit card or charge card,Struggling to pay your bill,Credit card company won't work with you while you're going through financial hardship,270
+Checking account,Closing an account,Funds not received from closed account,282
+FHA mortgage,Trouble during payment process,None,287
+Credit card debt,Communication tactics,Frequent or repeated calls,289
+Conventional home mortgage,Closing on a mortgage,None,297
+Credit card debt,Attempts to collect debt not owed,Debt was paid,301
+Credit reporting,Improper use of your report,Reporting company used your report improperly,301
+Home equity loan or line of credit (HELOC),Trouble during payment process,None,302
+Credit card debt,Written notification about debt,Didn't receive enough information to verify debt,317
+Mobile or digital wallet,Fraud or scam,None,319
+Checking account,Opening an account,Unable to open an account,330
+General-purpose credit card or charge card,Closing your account,Can't close your account,330
+General-purpose credit card or charge card,"Other features, terms, or problems",Problem with customer service,353
+Checking account,Managing an account,Problem making or receiving payments,361
+Checking account,Managing an account,Problem accessing account,365
+General-purpose credit card or charge card,Problem when making payments,You never received your bill or did not know a payment was due,366
+Loan,Managing the loan or lease,Billing problem,377
+Credit card debt,Attempts to collect debt not owed,Debt is not yours,395
+FHA mortgage,Struggling to pay mortgage,None,403
+Conventional home mortgage,Applying for a mortgage or refinancing an existing mortgage,None,424
+Credit card debt,Attempts to collect debt not owed,Debt was result of identity theft,441
+General-purpose credit card or charge card,Getting a credit card,Card opened as result of identity theft or fraud,443
+Domestic (US) money transfer,Fraud or scam,None,460
+General-purpose credit card or charge card,Getting a credit card,Application denied,466
+General-purpose credit card or charge card,Trouble using your card,Can't use card to make purchases,491
+General-purpose credit card or charge card,"Advertising and marketing, including promotional offers",Confusing or misleading advertising about the credit card,504
+General-purpose credit card or charge card,Fees or interest,Charged too much interest,546
+Checking account,Managing an account,Funds not handled or disbursed as instructed,603
+Checking account,Closing an account,Company closed your account,620
+Checking account,Opening an account,Didn't receive terms that were advertised,627
+Checking account,Managing an account,Fee problem,639
+Checking account,Problem caused by your funds being low,Overdrafts and overdraft fees,668
+Checking account,Managing an account,Banking errors,730
+Conventional home mortgage,Struggling to pay mortgage,None,797
+General-purpose credit card or charge card,"Other features, terms, or problems",Problem with rewards from credit card,884
+Checking account,Problem with a lender or other company charging your account,Transaction was not authorized,999
+General-purpose credit card or charge card,"Advertising and marketing, including promotional offers",Didn't receive advertised or promotional terms,1006
+General-purpose credit card or charge card,Closing your account,Company closed your account,1017
+Credit reporting,Incorrect information on your report,Account information incorrect,1069
+General-purpose credit card or charge card,Problem when making payments,Problem during payment process,1097
+General-purpose credit card or charge card,"Other features, terms, or problems",Other problem,1151
+Checking account,Managing an account,Problem using a debit or ATM card,1175
+Credit reporting,Incorrect information on your report,Account status incorrect,1253
+General-purpose credit card or charge card,Fees or interest,Problem with fees,1261
+Credit reporting,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,1284
+Credit reporting,Incorrect information on your report,Information belongs to someone else,1308
+General-purpose credit card or charge card,Problem with a purchase shown on your statement,Card was charged for something you did not purchase with the card,1375
+Credit reporting,Improper use of your report,Credit inquiries on your report that you don't recognize,1406
+Conventional home mortgage,Trouble during payment process,None,1498
+Checking account,Managing an account,Deposits and withdrawals,1653
+General-purpose credit card or charge card,Problem with a purchase shown on your statement,Credit card company isn't resolving a dispute about a purchase on your statement,3147
